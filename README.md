@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **sunidhijain0403@gmail.com**    <br/>
 
+  <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sunidhijain125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunidhijain125" height="30" width="40" /></a>
@@ -20,8 +21,8 @@
 
   <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunidhi-jain125&show_icons=true&locale=en&layout=compact" alt="sunidhi-jain125" /></p>
- <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunidhi-jain125&show_icons=true&locale=en" alt="sunidhi-jain125" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunidhi-jain125&show_icons=true&locale=en&layout=compact" alt="sunidhi-jain125" /></p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunidhi-jain125&show_icons=true&locale=en" alt="sunidhi-jain125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunidhi-jain125&" alt="sunidhi-jain125" /></p>
