@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sunidhi!</h1>
-<h4 align="center">Like building dApps using Rust(Solana), Web3.js, NextJs, Solidity(Ethereum) <br/> and web apps with React</h4>  <br/> <br/>
+<h4 align="center">Like building dApps, web apps,websites <br/> Rust(Solana), Web3.js, NextJs, Solidity(Ethereum), React, React Redux</h4>  <br/> <br/>
 
 - 🌱 I’m currently learning **Web3 Stuff**
 
