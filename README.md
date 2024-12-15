@@ -1,11 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Sunidhi!</h1>
 <h4 align="center">Like building DApps & Web Apps  <br/> Rust(Solana), Web3.js, NextJs, Solidity(Ethereum), React, React Redux</h4>  <br/> <br/>
 
-- 🌱 I’m currently learning **Web3 Stuff**
+-  My projects are available at [sunidhi125.vercel.app](sunidhi125.vercel.app)
 
-- 👨‍💻 My projects are available at [sunidhi125.vercel.app](sunidhi125.vercel.app)
-
-- 📫 How to reach me **sunidhijain0403@gmail.com**    <br/>
+-  How to reach me **sunidhijain0403@gmail.com**    <br/>
   <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
