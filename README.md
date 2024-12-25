@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sunidhi!</h1>
+<h1 align="center">Hey there 👋 I'm Sunidhi!</h1>
 <h4 align="center">Like building DApps & Web Apps  <br/> Rust(Solana), Web3.js, NextJs, Solidity(Ethereum), React, React Redux</h4>  <br/> <br/>
 
 -  My projects are available at [sunidhi125.vercel.app](sunidhi125.vercel.app)
