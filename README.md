@@ -4,15 +4,15 @@
 -  2x Hackthon Winner, always up for collaborating on innovative ideas.
 -  My projects are available at [sunidhi125.vercel.app](sunidhi125.vercel.app)
   
- 
+
 
   <h3> Primary Tech Stack </h3>
   
  -  NextJs, Typescript, NodeJs, React, React Redux
- -  Rust(Solana), Web3.js, Solidity(Ethereum)
+ -  Rust (Solana), Web3.js, Solidity (Ethereum)
 
 
- 
+  <br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
