@@ -2,7 +2,7 @@
 
 -  I like building Web Apps and DApps.
 -  2x Hackthon Winner, always up for collaborating on innovative ideas.
--  My projects are available at [sunidhi125.vercel.app](sunidhi125.vercel.app)
+-  My projects are available at [@Sunidhi](https://sunidhi125.vercel.app)
   
 
 
