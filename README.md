@@ -9,9 +9,9 @@
 - NextJs, Typescript, NodeJs, React, React Redux  
 - Rust (Solana), Web3.js, Solidity (Ethereum)
 
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
+
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
